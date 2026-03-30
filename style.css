@@ -1,0 +1,16 @@
+#header {
+    background-color: blue;
+    height: 100px;
+}
+#menu {
+    background-color: brown;
+    height: 40px;
+}
+#content {
+    background-color: yellow;
+    height: 500px;
+}
+#footer {
+    background-color: red;
+    height: 100px;
+}
