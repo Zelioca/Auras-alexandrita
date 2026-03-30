@@ -1,6 +1,13 @@
+#container {
+    background-image: url("/images/fundo-site.jpg");
+    background-size: cover;
+}
 #header {
+    
     background-color: blue;
     height: 100px;
+    width: 95%;
+    justify-content: center;
 }
 #menu {
     background-color: brown;
